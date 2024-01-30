@@ -1,0 +1,204 @@
+[{
+  "name": "P_START1",
+  "ru": "Добро пожаловать! Введите /help чтобы просмотреть список команд!",
+  "uk": "Ласкаво просимо! Введіть /help для того щоб подивитись перелік команд!",
+  "en": "Hello! Input /help to check list of commands!"
+},
+{
+  "name": "P_START2",
+  "ru": "Добро пожаловать! Введите /start в вашей группе (супергруппа) чтобы привязать ваш аккаунт к серверу.",
+  "uk": "Ласкаво просимо! Введіть /start у вашій групі (супергрупа) щоб прив'язати акаунт до серверу.",
+  "en": "Hello! Input /start on your supergroup to link your account."
+},
+{
+  "name": "P_START3",
+  "ru": "Этот сервер уже привязан. /help",
+  "uk": "Цей сервер вже прив'язан. /help",
+  "en": "This server are already linked. /help"
+},
+{
+  "name": "P_START4",
+  "ru": "успешно стал владельцом этого сервера.",
+  "uk": "успішно став ввласником цього сервера.",
+  "en": "has been linked as owner on this server."
+},
+{
+  "name": "P_HELP1",
+  "ru": "Список команд:\n\n/start\n/help\n/flip\n/roll\n/addadmin\n/removeadmin\n/unmute",
+  "uk": "Перелік команд:\n\n/start\n/help\n/flip\n/roll\n/addadmin\n/removeadmin\n/unmute",
+  "en": "List of commands:\n\n/start\n/help\n/flip\n/roll\n/addadmin\n/removeadmin\n/unmute"
+},
+{
+  "name": "P_HELP2",
+  "ru": "Список команд:\n\n/start\n/help\n/flip\n/roll\n/unmute",
+  "uk": "Перелік команд:\n\n/start\n/help\n/flip\n/roll\n/unmute",
+  "en": "List of commands:\n\n/start\n/help\n/flip\n/roll\n/unmute"
+},
+{
+  "name": "P_ALREADY_ADD_ADMIN",
+  "ru": "Вы уже пытаетесь добавить администратора",
+  "uk": "Ви вже намагаєтесь добавити адміністратора",
+  "en": "You already try add admin now"
+},
+{
+  "name": "P_INPUT_USERNAME",
+  "ru": "Введите @username",
+  "uk": "Введіть @username",
+  "en": "Input @username"
+},
+{
+  "name": "P_HAVENT_PERMS",
+  "ru": "Недостаточно прав.",
+  "uk": "Немає прав.",
+  "en": "You haven`t permissions."
+},
+{
+  "name": "P_USERNAME",
+  "ru": "Юзернейм:",
+  "uk": "Юзернейм:",
+  "en": "Username:"
+},
+{
+  "name": "P_INPUT_PRIORITY",
+  "ru": "Введите приоритет (пример 55):",
+  "uk": "Введіть пріоритет (приклад 55):",
+  "en": "Input priority (example 55):"
+},
+{
+  "name": "P_WRONG_USERNAME",
+  "ru": "Неправильный юзернейм (пример: @username)",
+  "uk": "Невірний юзернейм (приклад: @username)",
+  "en": "Wrong username (example: @username)"
+},
+{
+  "name": "P_PRIORITY",
+  "ru": "Приоритет:",
+  "uk": "Пріорітет:",
+  "en": "Priority:"
+},
+{
+  "name": "P_CHOOSE_SERVER",
+  "ru": "Выберите сервер:",
+  "uk": "Оберіть сервер:",
+  "en": "Choose server:"
+},
+{
+  "name": "P_WRONG_PRIORITY",
+  "ru": "Неправильный приоритет, не является числом (минимум 1 максимум 99). (пример: 42)",
+  "uk": "Невірний пріорітет, не є числом (мінімум 1 максимум 99). (приклад: 42)",
+  "en": "Wrong priority, not digit (minimum priority 1 and maximum equal 99). (example: 42)"
+},
+{
+  "name": "P_NOT_USERNAME",
+  "ru": "Это не юзернейм. (пример: @username)",
+  "uk": "Це не юзернейм. (приклад: @username)",
+  "en": "Its not username. (example: @username)"
+},
+{
+  "name": "P_SERVER",
+  "ru": "Сервер",
+  "uk": "Сервер",
+  "en": "Server"
+},
+{
+  "name": "P_OWNER",
+  "ru": "Владелец",
+  "uk": "Власник",
+  "en": "Owner"
+},
+{
+  "name": "P_COUNT_MESSAGES",
+  "ru": "Количество сообщений",
+  "uk": "Кілкість меседжів",
+  "en": "Count messages"
+},
+{
+  "name": "P_MEMBERS",
+  "ru": "Участников",
+  "uk": "Учасників",
+  "en": "Members"
+},
+{
+  "name": "P_ADMINISTRATORS",
+  "ru": "Администраторов",
+  "uk": "Адміністраторів",
+  "en": "Administrators"
+},
+{
+  "name": "P_COUNT_OF_MUTES",
+  "ru": "Количество мутов",
+  "uk": "Кількість м'ютів",
+  "en": "Count of mutes"
+},
+{
+  "name": "P_USER",
+  "ru": "Пользователь",
+  "uk": "Користувач",
+  "en": "User"
+},
+{
+  "name": "P_UNMUTED",
+  "ru": "Размучен",
+  "uk": "Розмучен",
+  "en": "unmuted"
+},
+{
+  "name": "P_USER_NOT_MUTED",
+  "ru": "Пользователь не в муте, операция отменена",
+  "uk": "Користувач не в муті, операцію скасовано",
+  "en": "User are not muted, operation cancel"
+},
+{
+  "name": "P_FLIP_HEADS",
+  "ru": "Орел",
+  "uk": "Орел",
+  "en": "Heads"
+},
+{
+  "name": "P_FLIP_TAILS",
+  "ru": "Решка",
+  "uk": "Решка",
+  "en": "Tails"
+},
+{
+  "name": "P_ROLL_GAME",
+  "ru": "Барабан",
+  "uk": "Барабан",
+  "en": "Roll"
+},
+{
+  "name": "P_DONE_ADMIN",
+  "ru": "Готово! Администратор",
+  "uk": "Готово! Адміністратор",
+  "en": "Done! Admin"
+},
+{
+  "name": "P_LINKED",
+  "ru": "привязан к серверу",
+  "uk": "прив'язан до серверу",
+  "en": "linked to the server"
+},
+{
+  "name": "P_CANT_AGAIN",
+  "ru": "Нельзя сделать это снова.",
+  "uk": "Не можна зробити це знову.",
+  "en": "Can`t do it again."
+},
+{
+  "name": "P_PROCESS_CANCELED",
+  "ru": "Процесс отменен.",
+  "uk": "Процес скасовано.",
+  "en": "Process canceled."
+},
+{
+  "name": "P_PROCESS_ALREADY_CANCELED",
+  "ru": "Процесс уже отменен.",
+  "uk": "Процес вже скасовано.",
+  "en": "Process already been canceled."
+},
+{
+  "name": "P_REMOVED_FROM_SERVER",
+  "ru": "снят с должности на сервере",
+  "uk": "знято з посади на сервері",
+  "en": "removed from the server"
+}]
