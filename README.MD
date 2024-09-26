@@ -1,6 +1,6 @@
 # Telegram Moderator Bot
 
-# Что использовал для создания?
+# Технологии
 - Python 3.11
 - MongoDB
 - JSON
